@@ -28,4 +28,4 @@ Welcome to my GitHub profile! I'm passionate about learning and sharing knowledg
 - **LinkedIn**: https://www.linkedin.com/in/tandi-chogyel-1590a6170/
 
 ---
-[← Back to Home](index.html)
+[← Back to Home](index.md)
