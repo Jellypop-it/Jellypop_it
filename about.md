@@ -26,3 +26,6 @@ Welcome to my GitHub profile! I'm passionate about learning and sharing knowledg
 ---
 ## Connect with Me
 - **LinkedIn**: https://www.linkedin.com/in/tandi-chogyel-1590a6170/
+
+---
+[← Back to Home](index.html)
