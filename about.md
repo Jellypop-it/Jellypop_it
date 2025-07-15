@@ -1,3 +1,6 @@
+---
+title: About Me
+---
 # Hi, I'm Tandi!
 
 Welcome to my GitHub profile! I'm passionate about learning and sharing knowledge, especially in the field of **cybersecurity** and **IT**. Here, you'll find my journey as I work on projects, improve my skills, and share what I learn along the way.
